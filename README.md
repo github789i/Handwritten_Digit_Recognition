@@ -1,7 +1,7 @@
 # Handwritten_Digit_Recognition
 This project mainly includes the following function:
 - GUI design(PyQt5),
-- design and trainging of the recognition model,
+- design and training of the recognition model,
 - update dataset,
 - digit recognition.
 
